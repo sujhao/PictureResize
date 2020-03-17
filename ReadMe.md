@@ -10,6 +10,7 @@ npm install canvas  //图片剪切
 
 ## main.js做了啥
 ```
+把你图片转换为配置大小的icon
 ```
 
 
